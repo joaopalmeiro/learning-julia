@@ -8,3 +8,4 @@
   - `Pluto.run()`.
 - _Pkg_/_Package manager_ mode: `]`.
 - [Franklin](https://github.com/tlienart/Franklin.jl) (static site generator).
+- [nteract](https://nteract.io/) works with Julia.
