@@ -1,5 +1,9 @@
 # learning-julia
 
+## Profiles
+
+- [Exercism](https://exercism.org/profiles/joaopalmeiro).
+
 ## Notes
 
 - [Pluto](https://github.com/fonsp/Pluto.jl) (notebooks for Julia).
