@@ -1,0 +1,4 @@
+# https://domluna.github.io/JuliaFormatter.jl/stable/yas_style/
+# https://www.julia-vscode.org/docs/stable/userguide/formatter/
+# https://domluna.github.io/JuliaFormatter.jl/stable/api/#JuliaFormatter.format_text-Tuple{AbstractString}
+style = "yas"

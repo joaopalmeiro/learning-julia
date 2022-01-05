@@ -18,3 +18,4 @@
   - [Uninstall](https://julialang.org/downloads/platform/#uninstallation__2).
 - [Julia in VS Code](https://www.julia-vscode.org/docs/dev/):
   - [JuliaFormatter.jl](https://github.com/domluna/JuliaFormatter.jl) for code formatting.
+- [exercism-julia](https://github.com/programacaodinamica/exercism-julia) repo.

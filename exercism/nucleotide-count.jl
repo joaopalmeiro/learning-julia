@@ -13,5 +13,5 @@ function count_nucleotides(strand)
         end
     end
 
-    res
+    return res
 end
