@@ -19,3 +19,4 @@
 - [Julia in VS Code](https://www.julia-vscode.org/docs/dev/):
   - [JuliaFormatter.jl](https://github.com/domluna/JuliaFormatter.jl) for code formatting.
 - [exercism-julia](https://github.com/programacaodinamica/exercism-julia) repo.
+- [Pkg documentation](https://pkgdocs.julialang.org/v1/).
